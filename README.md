@@ -1,5 +1,7 @@
 # TP2DPBO2023
 
+// /* // Saya Alghaniyu Naufal Hamid NIM 2105673 mengerjakan soal TP2 // dalam mata kuliah Desain dan Pemograman Berbasis Objek untuk keberkahanNya maka // saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin. // */
+
 - page awal
 
 ![Screenshot 2023-04-15 215732](https://user-images.githubusercontent.com/95957498/232233560-a6610d7a-ea95-4c45-ac2b-a9de8c7df0c0.png)
